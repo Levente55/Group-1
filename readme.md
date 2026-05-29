@@ -5,3 +5,5 @@ https://physics.stackexchange.com/questions/304215/is-there-some-kind-of-governi
 −∇⋅𝐷∇𝜙(𝑟⃗ ) -> how many neutrons leave (based on container parameter D)
 Σ𝑎𝜙(𝑟⃗ ) -> how many neutrons are absorbed by the material
 𝑆 -> neutron sources
+
+https://www.nrc.gov/docs/ml1214/ml12142a086.pdf
